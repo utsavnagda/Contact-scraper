@@ -10,7 +10,7 @@ It opens a new window for each company listed on the website and then gets the c
 It stores the data in a txt file named "example.txt" in the following format:
 
 Company name:  
-&nbsp;Company website  
-&nbsp;Company LinkedIn  
-&nbsp;Company Founder LinkeIn page  
-&nbsp;Company Co-founder LinkedIn page  
+&emsp;Company website  
+&emsp;Company LinkedIn  
+&emsp;Company Founder LinkeIn page  
+&emsp;Company Co-founder LinkedIn page  
